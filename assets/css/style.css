@@ -7,8 +7,6 @@
   --primary: #ffbe33;
   --primary-hover : #E69C00;
   --secondary: #222831;
-
-
   --main-font-family: "Dancing Script", cursive;;
 }
 
@@ -42,7 +40,7 @@ a {
 
 section {
   padding-top: 50px;
-  width: 62.5%;
+  width: 65.5%;
   margin: auto;
 }
 
